@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and nextjs**
 
-- 👨‍💻 All of my projects are available at [loading soon...](loading soon...)
+#- 👨‍💻 All of my projects are available at [loading soon...](loading soon...)
 
 - 💬 Ask me about **cricket, coding and life.**
 
