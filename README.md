@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **divyanshm09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1scB1PNNSJt3N6fLo4rTUtYlQnxYN01iC/view?usp=sharing](https://drive.google.com/file/d/1scB1PNNSJt3N6fLo4rTUtYlQnxYN01iC/view?usp=sharing)
-
 - ⚡ Fun fact **I am funny :/**
 
 <h3 align="left">Connect with me:</h3>
